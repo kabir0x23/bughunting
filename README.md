@@ -1,1 +1,1 @@
-# bug-hunting-notes
+# bughunting-notes
