@@ -1,10 +1,10 @@
-# 30 Days Of Cyber Security
+# 30 Days Of Bug Hunting
 
 | Day | Topic                                                                                 |
 |:--------- |:------------------------------------------------------------------------------------- |
 | 01         | Comming |
 
-## Join TheCyberWorld Community
+## Join Thecyberworld Community
 
 <a href="https://discord.com/invite/QHBPq6xP5p">
     <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
