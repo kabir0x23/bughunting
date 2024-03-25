@@ -1,9 +1,9 @@
 # 30 Days Of Bug Hunting
 
-| Day | Topic                                                                                 |
-|:--------- |:------------------------------------------------------------------------------------- |
-| 01         | Comming Soon |
-
+| Day | Topic        |
+| :-- | :----------- |
+| 01  | Comming Soon |
+test
 ## Join Thecyberworld Community
 
 <a href="https://discord.com/invite/QHBPq6xP5p">
